@@ -1,0 +1,15 @@
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/bin/Debug/net8.0/Homework_Feb19
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/bin/Debug/net8.0/Homework_Feb19.deps.json
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/bin/Debug/net8.0/Homework_Feb19.runtimeconfig.json
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/bin/Debug/net8.0/Homework_Feb19.dll
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/bin/Debug/net8.0/Homework_Feb19.pdb
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.AssemblyInfoInputs.cache
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.AssemblyInfo.cs
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.csproj.CoreCompileInputs.cache
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.sourcelink.json
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.dll
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/refint/Homework_Feb19.dll
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.pdb
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/Homework_Feb19.genruntimeconfig.cache
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230-01/homework/february_19/project/Homework_Feb19/obj/Debug/net8.0/ref/Homework_Feb19.dll
