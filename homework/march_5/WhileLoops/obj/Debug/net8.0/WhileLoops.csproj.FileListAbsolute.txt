@@ -1,0 +1,15 @@
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/bin/Debug/net8.0/WhileLoops
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/bin/Debug/net8.0/WhileLoops.deps.json
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/bin/Debug/net8.0/WhileLoops.runtimeconfig.json
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/bin/Debug/net8.0/WhileLoops.dll
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/bin/Debug/net8.0/WhileLoops.pdb
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfo.cs
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.sourcelink.json
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.dll
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/refint/WhileLoops.dll
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.pdb
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/WhileLoops.genruntimeconfig.cache
+/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/Debug/net8.0/ref/WhileLoops.dll
