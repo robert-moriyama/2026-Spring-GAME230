@@ -66,6 +66,28 @@ while (index6 <= 1024)
 
 // Question 7
 Console.WriteLine("\n\nQuestion 7:");
+bool isTrue = false;
+string response;
+
+do
+{
+    Console.WriteLine("Do you want the loop to stop?");
+    response = Console.ReadLine();
+    response = response.ToLower();
+
+    if (response == "yes")
+    {
+        isTrue = true;
+    }
+    else if (response == "no")
+    {
+        isTrue = false;   
+    }
+    else
+    {
+        Console.Write("Invalid input!");
+    }
+} while (!isTrue);
 
 
 // Question 8
@@ -109,6 +131,39 @@ while (index9 <= 20)
 // Question 10
 Console.WriteLine("\n\nQuestion 10:");
 
+int index10 = 0;
+string[] arr = new string[] {"once", "upon", "a", "midnight", "dreary"};
+
+while (index10 < arr.Length)
+{
+    Console.Write(arr[index10] + " ");
+    index10++;
+}
+
 
 // Bonus
 Console.WriteLine("\n\nBonus:");
+
+int indexBonus = 1;
+
+while (indexBonus <= 45)
+{
+    if ((indexBonus % 3 == 0) && (indexBonus % 5 == 0))
+    {
+        Console.Write("fizzbuzz ");
+    }
+    else if (indexBonus % 3 == 0)
+    {
+        Console.Write("fizz ");
+    }
+    else if (indexBonus % 5 == 0)
+    {
+        Console.Write("buzz ");
+    }
+    else
+    {
+        Console.Write(indexBonus + " ");
+    }
+    
+    indexBonus++;
+}
