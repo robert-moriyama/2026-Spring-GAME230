@@ -66,37 +66,39 @@ while (index6 <= 1024)
 
 // Question 7
 Console.WriteLine("\n\nQuestion 7:");
-bool isTrue = false;
+bool stopLoop = false;
 string response;
 
 do
 {
-    Console.WriteLine("Do you want the loop to stop?");
+    Console.WriteLine("Do you want the loop to stop? (yes/no)");
     response = Console.ReadLine();
     response = response.ToLower();
 
     if (response == "yes")
     {
-        isTrue = true;
+        stopLoop = true;
     }
     else if (response == "no")
     {
-        isTrue = false;   
+        stopLoop = false;   
     }
     else
     {
         Console.Write("Invalid input!");
+        break;
     }
-} while (!isTrue);
+} while (!stopLoop);
 
 
 // Question 8
 Console.WriteLine("\n\nQuestion 8:");
 int index8 = 0;
+bool isTrue = true;
 
 while (index8 < 100)
 {
-    if (index8 % 2 == 0)
+    if (isTrue)
     {
         Console.Write("True ");
     }
@@ -104,7 +106,8 @@ while (index8 < 100)
     {
         Console.Write("False ");
     }
-
+    
+    isTrue = !isTrue;
     index8++;
 }
 
@@ -112,10 +115,11 @@ while (index8 < 100)
 // Question 9
 Console.WriteLine("\n\nQuestion 9:");
 int index9 = 1;
+bool isEven = false;
 
 while (index9 <= 20)
 {
-    if (index9 % 2 == 0)
+    if (isEven)
     {
         Console.Write(index9 + " is even ");
     }
@@ -123,7 +127,8 @@ while (index9 <= 20)
     {
         Console.Write(index9 + " is odd ");
     }
-
+    
+    isEven = !isEven;
     index9++;
 }
 
