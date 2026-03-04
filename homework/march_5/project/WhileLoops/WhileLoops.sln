@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "WhileLoops.csproj", "{803F7C08-2D3D-4049-A0CF-D392AE08C271}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "WhileLoops.csproj", "{85063063-A667-44E0-9918-E073B997D8A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{803F7C08-2D3D-4049-A0CF-D392AE08C271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{803F7C08-2D3D-4049-A0CF-D392AE08C271}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{803F7C08-2D3D-4049-A0CF-D392AE08C271}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{803F7C08-2D3D-4049-A0CF-D392AE08C271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85063063-A667-44E0-9918-E073B997D8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85063063-A667-44E0-9918-E073B997D8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85063063-A667-44E0-9918-E073B997D8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85063063-A667-44E0-9918-E073B997D8A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
