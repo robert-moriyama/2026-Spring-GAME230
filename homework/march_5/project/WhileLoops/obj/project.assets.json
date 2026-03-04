@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/WhileLoops.csproj",
+      "projectUniqueName": "/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/project/WhileLoops/WhileLoops.csproj",
       "projectName": "WhileLoops",
-      "projectPath": "/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/WhileLoops.csproj",
+      "projectPath": "/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/project/WhileLoops/WhileLoops.csproj",
       "packagesPath": "/Users/rmoriyama/.nuget/packages/",
-      "outputPath": "/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/WhileLoops/obj/",
+      "outputPath": "/Users/rmoriyama/Documents/GitHub/2026-Spring-GAME230/homework/march_5/project/WhileLoops/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rmoriyama/.nuget/NuGet/NuGet.Config"
